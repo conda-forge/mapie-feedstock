@@ -121,5 +121,6 @@ Feedstock Maintainers
 =====================
 
 * [@gmartinonQM](https://github.com/gmartinonQM/)
+* [@vincentblot28](https://github.com/vincentblot28/)
 * [@vtaquet](https://github.com/vtaquet/)
 
