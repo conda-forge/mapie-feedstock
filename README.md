@@ -1,11 +1,11 @@
-About mapie
-===========
+About mapie-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mapie-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/MAPIE/
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mapie-feedstock/blob/main/LICENSE.txt)
 
 Summary: A scikit-learn-compatible module for estimating prediction intervals.
 
@@ -149,10 +149,8 @@ Feedstock Maintainers
 
 * [@LacombeLouis](https://github.com/LacombeLouis/)
 * [@gmartinonQM](https://github.com/gmartinonQM/)
+* [@thibaultcordier](https://github.com/thibaultcordier/)
 * [@tmorzade](https://github.com/tmorzade/)
 * [@vincentblot28](https://github.com/vincentblot28/)
 * [@vtaquet](https://github.com/vtaquet/)
-
-
-<!-- dummy commit to enable rerendering -->
 
