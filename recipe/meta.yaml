@@ -19,6 +19,7 @@ requirements:
   host:
     - pip
     - python {{ python_min }}
+    - setuptools
   run:
     - numpy >=1.21
     - packaging
@@ -45,6 +46,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - valentin-laurent
     - thibaultcordier
     - tmorzade
     - LacombeLouis
