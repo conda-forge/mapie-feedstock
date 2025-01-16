@@ -151,9 +151,7 @@ Feedstock Maintainers
 * [@gmartinonQM](https://github.com/gmartinonQM/)
 * [@thibaultcordier](https://github.com/thibaultcordier/)
 * [@tmorzade](https://github.com/tmorzade/)
+* [@valentin-laurent](https://github.com/valentin-laurent/)
 * [@vincentblot28](https://github.com/vincentblot28/)
 * [@vtaquet](https://github.com/vtaquet/)
-
-
-<!-- dummy commit to enable rerendering -->
 
