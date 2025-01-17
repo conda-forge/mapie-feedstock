@@ -24,7 +24,7 @@ requirements:
     - numpy >=1.21
     - packaging
     - python >={{ python_min }}
-    - scikit-learn
+    - scikit-learn <= 1.6.0
 
 test:
   imports:
