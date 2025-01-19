@@ -24,7 +24,7 @@ requirements:
     - numpy >=1.21
     - packaging
     - python >={{ python_min }}
-    - scikit-learn <=1.6.0
+    - scikit-learn <1.6.0
 
 test:
   imports:
@@ -35,7 +35,7 @@ test:
   requires:
     - pip
     - python {{ python_min }}
-    - scikit-learn <=1.6.0
+    - scikit-learn <1.6.0
 
 about:
   home: https://pypi.org/project/MAPIE/
