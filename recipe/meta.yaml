@@ -1,7 +1,6 @@
 {% set name = "MAPIE" %}
 {% set version = "1.0.1" %}
 
-
 package:
   name: {{ name|lower }}
   version: {{ version }}
@@ -11,7 +10,7 @@ source:
   sha256: 2a21273689dc50619673c6e8c2329f9f99eff7d6466262876ef319e5259e71ae
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
@@ -21,10 +20,10 @@ requirements:
     - python {{ python_min }}
     - setuptools
   run:
-    - numpy >=1.21
+    - numpy >=1.23
     - packaging
     - python >={{ python_min }}
-    - scikit-learn <1.6.0
+    - scikit-learn >=1.4
 
 test:
   imports:
@@ -35,7 +34,7 @@ test:
   requires:
     - pip
     - python {{ python_min }}
-    - scikit-learn <1.6.0
+    - scikit-learn >=1.4
 
 about:
   home: https://pypi.org/project/MAPIE/
