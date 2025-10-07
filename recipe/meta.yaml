@@ -46,6 +46,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - allglc
     - valentin-laurent
     - thibaultcordier
     - tmorzade
