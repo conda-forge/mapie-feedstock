@@ -1,5 +1,5 @@
 {% set name = "MAPIE" %}
-{% set version = "1.1.0" %}
+{% set version = "1.2.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0]|lower }}/{{ name|lower }}/{{ name | lower }}-{{ version }}.tar.gz
-  sha256: 13e1a8912cfcd66e770e80fe350797265684c1476f06adcde89c785eac628743
+  sha256: d632d19675063e7319c3cec896bbb61680532bb64ba075b517d375fbf8a875fa
 
 build:
   number: 0
