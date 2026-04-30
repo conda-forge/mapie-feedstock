@@ -17,11 +17,10 @@ Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table><tr>
+    <td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=13318&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mapie-feedstock?branchName=main">
-      </a>
+      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
     </td>
   </tr>
 </table>
@@ -151,6 +150,7 @@ Feedstock Maintainers
 * [@LacombeLouis](https://github.com/LacombeLouis/)
 * [@allglc](https://github.com/allglc/)
 * [@gmartinonQM](https://github.com/gmartinonQM/)
+* [@hmaissoro](https://github.com/hmaissoro/)
 * [@thibaultcordier](https://github.com/thibaultcordier/)
 * [@tmorzade](https://github.com/tmorzade/)
 * [@valentin-laurent](https://github.com/valentin-laurent/)
